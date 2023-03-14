@@ -1,0 +1,27 @@
+MEETING PEMBAYARAN BANK TRANSFER:
+
+Langsung ke rekening evermos
+Transfer sejumlah total belanja + Kode uniknya.
+
+Relase app evermos yag terbaru 15 Maret 2023 (1st rollout)
+
+Khusus untuk transaksi digipro dulu.
+
+Dihalaman cek status pesanan ada menu upload bukti bayar.
+(untuk berjaga2 jika konfirmasi bermasalah)
+
+Verifikasi manual:
+- Sudah bayar tapi statusnya belum dibayar/belum verify (kendala di sistem)
+- User typo data rekening atau nominal, jadi nggak kebayar
+- User masuk tapi nggak berhubungan dengan pembayaran dari evermos.
+
+#Ada metabase untuk cek mutasi rekening:
+Mutation History 
+
+/////////////////
+Pertanyaannya:
+- Ini berarti nggak perlu konfirmasi pembayaran dan status pesanan akan langsung berubah diproses kalau sudah dibayar/di transfer ke rekening evermos?
+- Rekening bank yang bisa dipakai apa aja?
+Apakah hanya bisa mandiri dan BCA aja..==== pertama bank mandiri aja, terus nanti tambah BCA dan BRI.
+- Ada delay atau realtime mas?
+Pengecakan data 2 menit sekali apakah ada mutasi atau nggak?
