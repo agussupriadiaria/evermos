@@ -1,5 +1,12 @@
 MEETING PEMBAYARAN BANK TRANSFER:
 
+** Pesanan dibayar dengan cara Bank Transfer
+
+vid recorder:
+https://docs.google.com/presentation/d/1Vb1so0VzsZeWleL_rBRaFi8zWmOuCFC1Rdg1Xnj2XvQ/edit#slide=id.g125fc8aeb20_0_0
+
+https://docs.google.com/presentation/d/16mg_Fw1S9lo-wDsdMKwLaQpBla5Ekx0RkH-t8nCbt3w/edit#slide=id.g201979e6d9d_0_452
+
 Langsung ke rekening evermos
 Transfer sejumlah total belanja + Kode uniknya.
 
@@ -13,15 +20,40 @@ Dihalaman cek status pesanan ada menu upload bukti bayar.
 Verifikasi manual:
 - Sudah bayar tapi statusnya belum dibayar/belum verify (kendala di sistem)
 - User typo data rekening atau nominal, jadi nggak kebayar
-- User masuk tapi nggak berhubungan dengan pembayaran dari evermos.
+- User masuk tapi nggak berhubungan dengan pembayaran dari evermos. (kalau case ini bisa pakai sop pending payment)
 
 #Ada metabase untuk cek mutasi rekening:
 Mutation History 
 
 /////////////////
-Pertanyaannya:
-- Ini berarti nggak perlu konfirmasi pembayaran dan status pesanan akan langsung berubah diproses kalau sudah dibayar/di transfer ke rekening evermos?
-- Rekening bank yang bisa dipakai apa aja?
-Apakah hanya bisa mandiri dan BCA aja..==== pertama bank mandiri aja, terus nanti tambah BCA dan BRI.
-- Ada delay atau realtime mas?
-Pengecakan data 2 menit sekali apakah ada mutasi atau nggak?
+
+NEWS - METODE PEMBAYARAN BANK TRANSFER
+
+Dear all team,
+Dengan di rileasenya app terbaru versi v5.13 saat ini sudah tersedia juga metode pembayaran baru yaitu bank tranfer khusus untuk pesanan digipro. Reseller bisa pesan di evermos dan melakukan pembayaran ke rekening Evermos.
+
+Flownya:
+- Reseler pesan pesan produk digipro
+- Pilih metode pembayan Bank Transfer (saat ini baru tersedia Bank Mandiri)
+- Reseller akan mendapatkan notifikasi total belanja + kode unik pembayaran
+- Jika reseller sudah membayar, status pesanan akan otomatis berubah dibayar/verify
+
+Contoh total pembayaran dan kode unik:
+Total belanja reseller Rp 100.000, kode unik 75, jadi reseller harus membayar total Rp 100.075 ke rekening evermos.
+
+Jika reseller sudah transfer tapi status pesanan belum otomatis dibayar/verify, proses verifikasi pembayaran dihandle manual.
+Flownya:
+- Reseller sudah pesan produk digipro dengan metode pembayaran bank transfer
+- Status pesanan tidak otomatis berubah dibayar atau verify
+- Reseller komplain ke tim CS
+- Arahkan reseller untuk cek detail status pesanan dan upload bukti pembayaran di halaman tersebut
+- Berikan SLA penanganan case (Konfirmasi ke Siw jen dan QA)==================
+
+
+
+
+** Ke mbak Jen: 
+>>SOP handling dari OP sudah aman kah? kyk pengecekan metabase dan bukti pembayarannya?
+>>SLA berapa lama untuk konfirmasi manual?
+>>Dari tim CS nanti bisa bantu apa? Soalnya nanti CS nggak eskal karena BT langsung di upload di platform.
+>>Concern yg ditanyain mbak Siw, ada kemungkinan status pesanan stuck karena konfirmasi pembayaran manual, dari OP nanti bisa langsung handle itu nggak? jadi ubah statusnya nggak perlu nunggu komplain reseller.

@@ -1,5 +1,9 @@
 Demo & Pre-Release Alignment: Credit Top Up Migration to Digital Product Environment
 
+materi ppt:
+https://docs.google.com/presentation/d/1Vb1so0VzsZeWleL_rBRaFi8zWmOuCFC1Rdg1Xnj2XvQ/edit#slide=id.g125fc8aeb20_0_0
+
+
 Untuk aplikasi terbaru rabu 15 maret? v5.13
 produk top up saldo nanti dari menu search untuk pencariannya
 
@@ -19,3 +23,17 @@ Flat, tetap 1000
 - kredit yang sudah masuk nanti apakah bisa langsung dipakai buat transaksi? atau ada sistem pendingnya juga? bisa langsung transaksi. 
 
 Tim OP, nanti untuk case pesanan yg failed tadi berarti kan yang melakukan top up oP, dan pesanan yg stuck statusnya bisa langsung di upgrade selesai sama tim OP + tech nggak ya?
+//////////////////////////////////
+
+NEWS - PERUBAHAN PRODUK TOP UP SALDO KREDIT MENJADI PRODUK DIGITAL
+
+Dear all team,
+Dengan releasenya app terbaru versi v5.13, saat ini top up saldo kredit/transaksi akan berubah menjadi pesanan produk digital. Jika reseller melakukan order kode order pesanannya akan ada tambahan dgt. Contoh dgt_4794-1622116123.
+
+**Untuk proses pemesanannya tidak ada perubahan.
+
+Notes:
+- Entry poin untuk akses pemesanan berubah, reseller bisa mencari produknya di search bar app dengan memasukkan kata kunci "Saldo" dan reseller pilih produk "Top Up Saldo Transaksi"
+- Biaya admin untuk orderannya Rp 1000 (flat per kode order)
+- Jika top up kredit sudah masuk ke akun reseller notifikasinya: 
+- 
