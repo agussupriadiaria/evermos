@@ -1,0 +1,20 @@
+DRAFT SOAL KUIS CS FEBRUARI 2023
+
+15. Berapa SLA tunggu untuk pertanyaan reseller terkait ongkir inthebox, jika reseller sudah mengisi form ongkir inthebox?
+A. 1x24 jam HK ===
+B. 2x24 jam HK
+C. 3x24 jam HK
+D. 4x24 jam HK
+
+16. Jika nama reseller di mimin adalah Toko Sinar Jaya, tapi nama di Qiscus adalah Mbak Nani, maka adressing yang tepat untuk reseller tersebut adalah:
+A. Kak Nani ===
+B. Kak Sinar
+C. Kak Jaya
+D. Kak Toko
+
+19. Simulasi perhitungan soal ajak teman evermos yang rumit
+Untuk program ajak teman Evermos periode 6-28 Februari 2023, jika reseller berhasil mengajak 10 orang teman/minggu, berapa total komis yang didapatkan?
+A. Tidak mendapatkan komisi
+B. 100rb
+C. 150rb
+D. 200rb ===
