@@ -1,0 +1,43 @@
+INFO YANG DI SHARE:
+
+ISSUE - POIN COD LEBIH BESAR DARI SEHARUSNYA
+Tanggal 8 ada issue reseller yang pesan COD dapat pooin lebih banyak, terus sudah dilakukan adjustmen dengan keterangan:
+Pengurangan Kelebihan Poin Transaksi via Evermos [kode order].
+Data reseller yang terdampak sudah dishare juga di channnel
+
+NEWS - KETENTUAN ONGKIR INTHEBOX UNTUK PRODUK KHUSUS
+Info dari mbak Jen untuk produk inthebox berikut:
+- Inthebox - Inthebox Hybrid 5s
+- Inthebox Hybrid 10s free Pillow 1 pcs
+Ada update untk penentuan ongkirnya, sebelumnya patokannya dari gsheet rate card, sekarang patokannya dari form ongkir inthebox
+
+ISSUE - PESANAN RESELLER TIDAK ADA EKSPEDISINYA
+Tanggal 9 mar dapat issue beberapa pesanan reseller nggak ada resinya dan ongkir juga Rp 0.
+Handling awal pesanan akan dibatalin dan dana akan direfund.
+Tanggal 10 mar di update sama mbak nad, kalau pesanan akan diproses dan ongkir ditanggung evermos dan reseller bisa diarahkan untuk menunggu pemrosesan pesanannya
+
+SOP - PENGECEKAN DATA PESANAN BO DAN PENDING DI GSHEET OP
+Kemarin dibuatin lagi dashboard looker studio untuk pengecekan data pesanan BO dan pending order 3x24 jam sama mas oscar, linknya sudah dishare ke channel
+
+SOP - HANDLE PESANAN RETUR/REFUND PARSIAL UNTUK CAPAIAN KENAIKAN KELAS
+Pesanan yang refund parsial statusnya nggak bisa selesai, tapi harusnya tetap masuk ke capaian kelas, sekarang proses perhitungan pesanan seperti ini nggak bisa otoamtis masuk ke capaian kelas, kedepannya akan dibuat otoamtis.
+jika ada reseller yang komplain terkait issue ini bisa dieskal ke RC dengan case loyalty
+
+ISSUE - KENDALA PROGRAM TANTANGAN
+Tanggal 10 mar, dapat info kalau Tantangan Brand Jims Honey Cianjur bermasalah, transaksi periode 6-10 mar nggak masuk capaian. Reseller diarahin nunggu sampai tanggal 14 Mar
+Di update teh nad tanggal 15, kendala sudah teratasi kalau ada reseller yg komplain bsia dieskal ek RC dengan case loyalty
+
+INFORMASI TRAINING -  TRAINING LEVEL E 1
+Cara Efektif Meningkatkan Penjualan Produk
+diadakan via zoom, tanggal 14 maret kemarin
+
+SOP - KETENTUAN GARANSI KHUSUS PRODUK AL QUR'AN
+Ini info lama, tapi tak cek nggak nemu infonya di mom maupun di channel, jadi di share lagi.
+reseller bisa klaim garansi untuk produk alquran yang tidak sesuai (misal halaman tertukar, rusak, dll) tanpa batasan waktu selama produk belum digunakan
+
+ISSUE - KENDALA PELACAKAN RESI ID EXPRESS
+Tanggal 14 mar waktu temen2 lacak resi di website ekspedisi nggak muncul history pengirimannya, tapi di berdu dan cek resi muncul, jadi patokan dari berdu dan cek resi
+
+CAMPAIGN/PROMO - JIMS HONEY CIANJUR BAGI-BAGI HADIAH
+CAMPAIGN/PROMO - DISKON 10% DARI ARRA
+Periode 6-19 maret

@@ -1,0 +1,40 @@
+PERHITUNGAN OKR
+
+>> 90% agen 1st layer membaca update info di channel telegram KMC di Q4	
+
+Parameter:
+- Cek info di channel KMC
+- Ambil sampling 5 info dalam 1 minggu
+- Cek jumlah agen di jadwal agen, nggak relevan kalau pakai jumlah agen, soalnya membernya itu nggak cuma agen 1st layer. Jadi bisa pakai jumlah member group di channel kmc aja
+- Cek jumlah viewer di group telegram KMC
+Jumlah agen Oktober = 70
+week1 5 info = 
+313
+272
+205
+202
+218
+231
+189
+118
+186
+245
+504
+448
+213
+152
+224
+296
+215
+329
+
+Note:
+* Jumlah viewer nggak relevan, sepertinya kalau chat di forward ke orang lain, nambahin jumlah angka viewer. Jumlah viewer sampai 5 kali member tim CS
+* Kalau parameter diambil dari jumlah viwer  yang diangka dibawah 200, terus dikurangi jumlah QA[5] konfirm ke mas oscar, OP[6], RC[9] dan TL[4], onboarding[17]  gimana? total exclude 41 viewer
+
+week2 5 info
+week3 5 info
+
+Jumlah agen November = 67
+
+Jumlah agen Desember = 54
