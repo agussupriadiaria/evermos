@@ -2,38 +2,35 @@ Demo & Pre-Release Alignment: Credit Top Up Migration to Digital Product Environ
 
 materi ppt:
 https://docs.google.com/presentation/d/1Vb1so0VzsZeWleL_rBRaFi8zWmOuCFC1Rdg1Xnj2XvQ/edit#slide=id.g125fc8aeb20_0_0
-
-
-Untuk aplikasi terbaru rabu 15 maret? v5.13
-produk top up saldo nanti dari menu search untuk pencariannya
-
-Top up saldo transaksi akan otomatis
-admin feenya Rp 1000 per transaksi, flate reate
-Note kredit topup beda..
-
-terus nanti id ordernya akan ada dgt-nya
-
-entry poinnya, saat ini hanya dari menu pencarian produk dengan mengetikkan kata kuncui "Saldo" Pilih produknya Top up saldo transaksi
-Kalau ada reseller yang menanyakan:
-saldo transaksi hanya bisa digunakan untuk transaksi produk digitial dan tidak bisa di cairkan kembali..
-
-///////////////////////////
-- Biaya admin untuk pemesanan reseller reguler tadi biaya adminnya Rp 500 yang di ppt dan di contoh pemesanan tadi beda.
-Flat, tetap 1000
-- kredit yang sudah masuk nanti apakah bisa langsung dipakai buat transaksi? atau ada sistem pendingnya juga? bisa langsung transaksi. 
-
-Tim OP, nanti untuk case pesanan yg failed tadi berarti kan yang melakukan top up oP, dan pesanan yg stuck statusnya bisa langsung di upgrade selesai sama tim OP + tech nggak ya?
 //////////////////////////////////
-
 NEWS - PERUBAHAN PRODUK TOP UP SALDO KREDIT MENJADI PRODUK DIGITAL
 
 Dear all team,
-Dengan releasenya app terbaru versi v5.13, saat ini top up saldo kredit/transaksi akan berubah menjadi pesanan produk digital. Jika reseller melakukan order kode order pesanannya akan ada tambahan dgt. Contoh dgt_4794-1622116123.
+Di versi terbaru aplikasi Evermos v5.13, pesanan produk top up saldo kredit/transaksi akan berubah menjadi pesanan produk digital dengan tambahan keterangan dgt pada kode ordernya. Contoh dgt_4794-1622116123.
 
-**Untuk proses pemesanannya tidak ada perubahan.
+**Untuk denom cara pemesanan ada perubahan
+>> Denom transaksi
+- Reseller organik (reseller evermos biasa)
+Range denom: 50.000 - 2.000.000
+- Reseller Allow-listed (Reseller Evermos khusus)
+Range denom: 2,000,000 - 1,000,000,000
+>> Halaman pemilihan denom berbeda dengan halaman pemilihan sebelumnya.
+Reseller bisa memilih denom sesuai dengan option yang tersedia, atau menuliskan denom sesuai dengan kebutuhan.
 
-Notes:
+INFO LAINNYA:
 - Entry poin untuk akses pemesanan berubah, reseller bisa mencari produknya di search bar app dengan memasukkan kata kunci "Saldo" dan reseller pilih produk "Top Up Saldo Transaksi"
 - Biaya admin untuk orderannya Rp 1000 (flat per kode order)
 - Jika top up kredit sudah masuk ke akun reseller notifikasinya: 
-- 
+- Kredit yang sudah masuk hanya bisa dipakai untuk melakukan transaksi produk digital dan tidak bisa di WD.
+- Credit yang sudah masuk langsung bisa dipakai untuk transaksi
+
+Notes:
+- Pesanan yang terkendala dan batal, dana refundnya tidak otomatis kembali ke reseller dan biaya admin yang sebelumnya sudah dibayar reseller (Rp 1000), tidak ikut direfund.
+- Jika reseller terkendala karena sudah pesan dan membayar dengan metode pembayaran SELAIN BANK TRANSFER, tapi belum ter-top up kreditnya, agen bisa eskalasi ke 2nd layer sesuai dengan SOP berikut: https://t.me/c/1469407673/2850
+- Jika reseller terkendala karena sudah pesan dan membayar dengan metode pembayaran BANK TRANSFER, tapi belum ter-top up kreditnya, agen bisa eskalasi ke OP dengan SOP Failed Top Up Pulsa
+
+Terima kasih
+
+Evermos
+#News
+////////////////////////////
