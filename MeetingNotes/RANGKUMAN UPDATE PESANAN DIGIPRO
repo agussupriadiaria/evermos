@@ -1,5 +1,84 @@
 RANGKUMAN MEETIN UNTUK PESANAN DIGIPRO YANG BANK TRANSFER
 
-testing ini bisa di push nggak?
+////////////////////////////
+NEWS - METODE PEMBAYARAN BANK TRANSFER UNTUK PESANAN DIGIPRO
 
-bisa banget buat di pull juga nggak ya?
+Dear all team,
+Dengan di releasenya app terbaru versi v5.13, saat ini sudah tersedia juga metode pembayaran baru yaitu bank transfer, khusus untuk pesanan digipro. Reseller bisa pesan di evermos dan melakukan pembayaran ke rekening Evermos.
+
+Flow pemesanannya-nya:
+- Reseler pesan produk digipro dengan metode pembayaran Bank Transfer
+- Reseller akan dapat info total belanja + kode unik dan arahan untuk transfer ke bank berikut:
+Mandiri: [rek on confirm ke mas reza, soalnya beda sama rek lama]
+Atas Nama: PT Setiap Hari Dipakai
+- Jika reseller sudah membayar, status pesanan akan otomatis berubah dibayar/verify (maksimal SLA perubahan status 15 menit dari waktu pembayaran/transfer)
+
+Contoh total pembayaran dan kode unik:
+Total belanja reseller Rp 50.000, kode unik 9, jadi reseller harus membayar total Rp 50.009 ke rekening evermos.
+
+Terima kasih
+
+Evermos
+#News
+
+////////////////////////////
+SOP - HANDLE PESANAN DIGIPRO DENGAN CARA BANK TRANSFER TAPI BELUM DITERIMA
+
+Dear tim Service,
+Karena saat ini pesanan produk digipro bisa dibayar dengan metode pembayaran bank transfer (Info dichannel: xxxxxxxx)
+Jika ada reseller yang mengalami issue berikut:
+------------
+>> Reseller sudah transfer, tapi status pesanan belum otomatis dibayar/verify dan sudah lebih dari 15 menit setelah waktu pembayaran.
+>> Reseller salah memasukkan nominal pembayaran + kode unik.
+------------
+Kendalanya bisa dibantu dengan cara verifikasi pembayaran manual.
+
+Flownya verifikasi pembayaran manual:
+- Reseller sudah pesan produk digipro dengan metode pembayaran bank transfer
+- Status pesanan tidak otomatis berubah dibayar atau verify 
+- Reseller komplain ke tim CS
+- Jika sudah lebih dari 15 menit dari waktu pembayaran/transfer, mintakan kelengkapan data case Failed Top Up Pulsa dan tambahan kelengkapan data berikut:
+----------
+*No rekening:
+*Nama bank:
+*Nama pemilik rekening:
+*Tanggal transfer:
+*SS bukti pembayaran/ foto struk
+----------
+- Eskalasi detail kendalanya ke OP dengan case: Failed Top Up Pulsa dan berikan SLA penanganan case.
+
+Terima kasih
+
+Evermos
+#News
+////////////////////////////
+NEWS - PERUBAHAN PRODUK TOP UP SALDO KREDIT MENJADI PRODUK DIGITAL
+
+Dear all team,
+Di versi terbaru aplikasi Evermos v5.13, pesanan produk top up saldo kredit/transaksi akan berubah menjadi pesanan produk digital dengan tambahan keterangan dgt pada kode ordernya. Contoh dgt_4794-1622116123.
+
+**Untuk denom cara pemesanan ada perubahan
+>> Denom transaksi
+- Reseller organik (reseller evermos biasa)
+Range denom: 50.000 - 2.000.000
+- Reseller Allow-listed (Reseller Evermos khusus)
+Range denom: 2,000,000 - 1,000,000,000
+>> Halaman pemilihan denom berbeda dengan halaman pemilihan sebelumnya.
+Reseller bisa memilih denom sesuai dengan option yang tersedia, atau menuliskan denom sesuai dengan kebutuhan.
+
+INFO LAINNYA:
+- Entry poin untuk akses pemesanan berubah, reseller bisa mencari produknya di search bar app dengan memasukkan kata kunci "Saldo" dan reseller pilih produk "Top Up Saldo Transaksi"
+- Biaya admin untuk orderannya Rp 1000 (flat per kode order)
+- Jika top up kredit sudah masuk ke akun reseller notifikasinya: 
+- Kredit yang sudah masuk hanya bisa dipakai untuk melakukan transaksi produk digital dan tidak bisa di WD.
+- Credit yang sudah masuk langsung bisa dipakai untuk transaksi
+
+Notes:
+- Pesanan yang terkendala dan batal, dana refundnya tidak otomatis kembali ke reseller dan biaya admin yang sebelumnya sudah dibayar reseller (Rp 1000), tidak ikut direfund.
+- Jika reseller terkendala karena sudah pesan dan membayar dengan metode pembayaran SELAIN BANK TRANSFER, tapi belum ter-top up kreditnya, agen bisa eskalasi ke 2nd layer sesuai dengan SOP berikut: https://t.me/c/1469407673/2850
+- Jika reseller terkendala karena sudah pesan dan membayar dengan metode pembayaran BANK TRANSFER, tapi belum ter-top up kreditnya, agen bisa eskalasi ke OP dengan SOP Failed Top Up Pulsa
+
+Terima kasih
+
+Evermos
+#News
