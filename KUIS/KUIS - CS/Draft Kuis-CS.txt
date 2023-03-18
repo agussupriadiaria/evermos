@@ -1,20 +1,65 @@
-DRAFT SOAL KUIS CS FEBRUARI 2023
+DRAF SOAL KUIS MARET 2023
 
-15. Berapa SLA tunggu untuk pertanyaan reseller terkait ongkir inthebox, jika reseller sudah mengisi form ongkir inthebox?
-A. 1x24 jam HK ===
-B. 2x24 jam HK
-C. 3x24 jam HK
-D. 4x24 jam HK
+11. Resller menanyakan, apakah konsumen bisa mengecek detail alamat dan detail transaksi yang sudah dilakukan?
+A. Bisa, selama konsumen tidak ganti web browser dan tidak hapus memory browsernya ===
+B. Tidak bisa, karena konsumen tidak memilik aplikasi Evermos
+C. Tidak bisa, karena setiap transaksi yang dilakukan konsumen otomatis terhapus
+D. Bisa, karena non member Evermos juga bisa login di aplikasi Evermos
 
-16. Jika nama reseller di mimin adalah Toko Sinar Jaya, tapi nama di Qiscus adalah Mbak Nani, maka adressing yang tepat untuk reseller tersebut adalah:
-A. Kak Nani ===
-B. Kak Sinar
-C. Kak Jaya
-D. Kak Toko
+12. Produk inthebox Inthebox - Inthebox Hybrid 10s free Pillow 1 pcs ada perubahan ketentuan ongkir. Sebelumnya penentuan ongkir dari gsheet Rate Card Inthebox 2022, sekarang dari gsheet Form Ongkir In The Box - Evermos. Ketentuan ini berlaku sejak tanggal berapa?
+A. 7 Maret 2023
+B. 8 Maret 2023
+C. 9 Maret 2023 ===
+D. 10 Maret 2023
 
-19. Simulasi perhitungan soal ajak teman evermos yang rumit
-Untuk program ajak teman Evermos periode 6-28 Februari 2023, jika reseller berhasil mengajak 10 orang teman/minggu, berapa total komis yang didapatkan?
-A. Tidak mendapatkan komisi
-B. 100rb
-C. 150rb
-D. 200rb ===
+13. Bagaimana cara memastikan nasabah Aladin termasuk Quality atau Reguler?
+A. Dari kolom Final Status di dashboard Aladin ===
+B. Dari kolom Current Status di dashboard Aladin
+C. Dari kolom Balance Current di dashboard Aladin
+D. Dari kolom Fraud di dashboard Aladin
+
+14. Jika ada reseller yang menanyakan durasi promo untuk produk digambar terlampir, apa yang harus disampaikan oleh agen 1st layer?
+A. Infokan promo berlangsung sampai akhir November 2023
+B. Infokan promonya masih berlaku dan mengikuti ketersediaan stock di Evermos ===
+C. Infokan promonya tidak ada batas waktunya
+D. Infokan promonya sudah berakhir dan reseller bisa cek promo lainnya dari Evermos
+CAMPAIGN/PROMO - AWAL TAHUN BIKIN HEBOH MYBESTIE
+
+15. Berapa SLA pemrosesan reward untuk program di sosmed? (Update Maret 2023)
+A. 7 hari kerja setelah batas konfirmasi pemenang berakhir ===
+B. 8 hari kerja setelah batas konfirmasi pemenang berakhir
+C. 9 hari kerja setelah batas konfirmasi pemenang berakhir
+D. 10 hari kerja setelah batas konfirmasi pemenang berakhir
+
+16. Berikut ini yang BUKAN merupakan voucher dari program Gebyar Voucher Pasti Murah:
+A. PALADINDISC
+B. MYBESTIEDISC
+C. CORDOBADISC
+D. COBAJUALIN ===
+
+17. Berikut ketentuan waktu top up komisi program loyalty mingguan terbaru, yang dimulai dari periode 13-19 Februari 2023:
+A. Waktu top up hari Senin di minggu berikutnya
+B. Waktu top up hari Selasa di minggu berikutnya ===
+C. Waktu top up hari Rabu di minggu berikutnya
+D. Waktu top up hari Jum'at di minggu berikutnya
+
+18. Reseller dapat pesanan dari MP dengan ekspedisi JNE Express. Reseller belum pesan di Evermos karena waktu mau pesan tidak ada pilihan ekspedisinya. Apa yang bisa dilakukan agen 1st layer?
+A. Arahkan untuk membatalkan pesanan di MP, lalu menyamakan eskpedisi di MP dengan yang di Evermos ===
+B. Arahkan untuk konfirmasi ke CS MP agar diubah jasa ekspedisinya
+C. Arahkan untuk mengirim paket kosong dulu agar pesanan di MP tetap diproses
+D. Arahkan untuk tidak menjual produk tersebut lagi di MP
+
+19. Reseller memiliki pesanan dengan 20 poin yang dipesan pada tanggal 26 Februari 2023, namun status pesanan baru Selesai di tanggal 5 Maret 2023. Berapa poin yang akan didapatkan oleh reseller tersebut? 
+A. 20 poin
+B. 5.000 poin
+C. 10.000 poin ===
+D. 1.000 poin
+
+20. Reseller komplain karena tanggal 16 Maret 2023 sudah ajak teman untuk daftar Evermos, tapi belum dapat komisi. Setelah dicek teman yang diajak sudah transaksi dengan detail berikut:
+- Transaksi 1, tanggal 17 Maret 2023 = Rp 90.000
+- Transaksi 2, tanggal 18 Maret 2023 = Rp 200.000
+Apa yang bisa disampaikan ke reseller tersebut?
+A. Kendala sedang dalam pengecekan dan agen bisa eskal ke RC dengan case loyalty
+B. Infokan untuk menunggu sesuai dengan SLA topnya 7 hari kerja setelah teman yang diajak transaksi
+C. Reseller tidak mendapatkan komisinya, karena program ajak teman Evermos sudah berakhir
+D. Reseller tidak mendapatkan komisinya, karena transaksi pertama kurang dari Rp 120rb ===
