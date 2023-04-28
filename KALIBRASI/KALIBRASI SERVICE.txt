@@ -1,40 +1,11 @@
-KALIBRASI SERVICE 95
-Selasa, 21 Februari 2023
-Jam: 14.00-14.30
+KALIBRASI SERVICE
 
-KMC:
-1. Konfirmasi update kontak aladin, yang bisa diupdate hanya data kontak di evermos aja.
-RC>>
-QA>>
-Cek juga data di dashboard aladin ada perubahan atau nggak. karena biasanya updatenya nunggu 3 hari untuk perubahan data di dashboard.
+1. SOP untuk pengecekan eskalasian dari agen CS yang perlu data tambahan tapi datanya kurang dan agen CSnya sudah pulang.. Dibuatin group telegram untuk pengecekannya.
 
-2. Kendala website issue engineering, untuk keterangan data provider diganti dengan Layanan jaringan yang digunakan reseller (provider/Wifi):
-RC>>
-QA>>
-Bisa diubah aja, biar agen nggak bingung == konfirm ke mbak prihut.
-
-3. SOP req additional produk custom, apakah perlu berpatokan pada status pesanan reseller?
-OP>>
-Pesanan produk custom bisa diproses asal belum ada resinya (belum dikirim)
-- Untuk promo produk yang khusus dari WH tertentu, reseller udah terlanjur pesan, tapi dari WHnya habis, jadinya reseller pesan dari WH lainnya, dan nggak dapat promonya, apakah dari BRC bisa fu ke AE, atau PIC brandnya? Kalau nggak bisa nanti diarahkan ke KMC aja, KMC bisa make sure dulu ke PICnya.
-Untuk ketentuan penggantian voucher == konfirm ke mas oscar, sekalian ke mas oscar, BRC bisa handle produk yng kena volume nggak?
+2. Konfirm ke mbak Siw dan mas Tyo kalau dari hasil pengecekan di group telegram beberapa case perlu di alignment.
+- Izin buat cek secara berkala eskalasian dari agen CS ke RC dengan keterangan tidak input SW, kalau ada SOP atau tnc yang perlu di update, konfirm ke RC
+- Minta tolong reminder jika ada keluhan dari RC terkait dengan esklasian agen CS yang kurang lengkap dan dilakukan secara repeat atau massive ke KMC agar dilaukan pengecekan. jika perlu update SOP akan diupdate SOPnya.
 
 
-Mbak @Siwisukma
-
-
-Mas @tyoneun 
-
-
-Mbak @RizqiPrihutami 
-
-
-Mbak @JennyCitra
-
-
-Mbak @uswakhoiriyah
-
-
-Mbak @Debyurika
-
-
+ke BRC kalau misal nggak perlu ditanyain gimana? soalnya waktu penyampaian ke reseller juga diarahin buat ngecek secara berkala, terus nggak dikasih SLA juga, buat ngurasi effort dari CS dan BRC juga.
+nanti kalau tanggal info dari BRC ternyata toko belum buka gimana?

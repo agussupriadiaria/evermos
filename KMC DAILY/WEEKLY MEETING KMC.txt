@@ -1,43 +1,40 @@
-INFO YANG DI SHARE:
+//////////////////////////
+UPDATE FITUR - REGISTRASI MELALUI WEBSITE
+kemarin cara registrsai di web dan app beda, sekarang disamain, flownya seperti yang di app, terus halaman di web untuk daftar dan login dulu dipisah sekarang digabung
 
-ISSUE - POIN COD LEBIH BESAR DARI SEHARUSNYA
-Tanggal 8 ada issue reseller yang pesan COD dapat pooin lebih banyak, terus sudah dilakukan adjustmen dengan keterangan:
-Pengurangan Kelebihan Poin Transaksi via Evermos [kode order].
-Data reseller yang terdampak sudah dishare juga di channnel
+NEW PRODUCT - BERAS SEDAP WANGI
+Ketentuan pemesanan:
+- Pengiriman produk hanya bisa ke wilayah Kabupaten Bandung dan Cimahi (list wilayah pengiriman bisa dicek di detail katalog).
+- Pesanan dikirim menggunakan kurir pribadi
+- SLA pengiriman:
+* Pesanan dilakukan sebelum jam 15.00, SLA pengirimannya 1 hari kerja setelah pemesanan
+* Pesanan dilakukan sesudah jam 15.00, SLA pengirimannya 2 hari kerja setelah pemesanan
+- Produk ini di exclude dari program benefit reseller, seperti poin dan komisi loyalty mingguan
+Untuk tim CS:
+- Jika pesanan dikirim diluar wilayah yang ditentuakan, kemudian pesanan terkendala Long picking atau Untracked, kendalanya dieskal dengan case OOCA.
+- Jika pesanan dikirim sesuai dengan wilayah yang ditentukan, kemudian pesanan terkendala Long picking atau Untracked, kendala dieskal sesuai dengan case Long picking atau Untracked.
+- Update status pesanan jadi selesai, mengikuti ketentuan pesanan yang dikirim pakai kurir pribadi, yaitu 13 hari kalender setelah pemesanan.
+Cut off pesanan geser, SLA pemrosesan awalnya jam 3 jadi jam 1 siang.
 
-NEWS - KETENTUAN ONGKIR INTHEBOX UNTUK PRODUK KHUSUS
-Info dari mbak Jen untuk produk inthebox berikut:
-- Inthebox - Inthebox Hybrid 5s
-- Inthebox Hybrid 10s free Pillow 1 pcs
-Ada update untk penentuan ongkirnya, sebelumnya patokannya dari gsheet rate card, sekarang patokannya dari form ongkir inthebox
+SOP - LAYANAN CS EVERMOS 24 JAM
+Dari mbak Jo nginfoin kalau ada tambahan template yang nginfoin layanan CS sudah 24 jam, sudah dishare infonya ke temen2, untuk pembagian template chat yang digunakan setiap shift nantinya akan dishare KMC di group CS meravi sesuai dengan pembagian dari mbak Jo juga
 
-ISSUE - PESANAN RESELLER TIDAK ADA EKSPEDISINYA
-Tanggal 9 mar dapat issue beberapa pesanan reseller nggak ada resinya dan ongkir juga Rp 0.
-Handling awal pesanan akan dibatalin dan dana akan direfund.
-Tanggal 10 mar di update sama mbak nad, kalau pesanan akan diproses dan ongkir ditanggung evermos dan reseller bisa diarahkan untuk menunggu pemrosesan pesanannya
+ISSUE - KENDALA AKSES WEBSITE EVERMOS
+tanggal 23 jam 18 kemarin, website nggak bs diakses dan app aksesnya lambat, sudah direport ke tim tech dan tanggal 24 jam 6 an kendalanya sudah teratasi diupdate sama azmi
 
-SOP - PENGECEKAN DATA PESANAN BO DAN PENDING DI GSHEET OP
-Kemarin dibuatin lagi dashboard looker studio untuk pengecekan data pesanan BO dan pending order 3x24 jam sama mas oscar, linknya sudah dishare ke channel
+INFO - UPDATE PENAMBAHAN LINK CAMPAIGN (72)
+Bisa dipakai sampai tanggal 2 April
 
-SOP - HANDLE PESANAN RETUR/REFUND PARSIAL UNTUK CAPAIAN KENAIKAN KELAS
-Pesanan yang refund parsial statusnya nggak bisa selesai, tapi harusnya tetap masuk ke capaian kelas, sekarang proses perhitungan pesanan seperti ini nggak bisa otoamtis masuk ke capaian kelas, kedepannya akan dibuat otoamtis.
-jika ada reseller yang komplain terkait issue ini bisa dieskal ke RC dengan case loyalty
+NEWS - METABASE PENGECEKAN RIWAYAT KELAS RESELLER
+Update metabase yang digukana untuk pengecekan history kelas reseller, karena kemarin dapat case reseler komplain karena diinfokan status kelasnya dan setelah dikirim ss di appnya nggak sesuai dengan yang dimetabase
 
-ISSUE - KENDALA PROGRAM TANTANGAN
-Tanggal 10 mar, dapat info kalau Tantangan Brand Jims Honey Cianjur bermasalah, transaksi periode 6-10 mar nggak masuk capaian. Reseller diarahin nunggu sampai tanggal 14 Mar
-Di update teh nad tanggal 15, kendala sudah teratasi kalau ada reseller yg komplain bsia dieskal ek RC dengan case loyalty
+NEWS - PRODUK KELAS RESELLER SUKSES
+Produk training kelas resleler sukses linknya kemarin nggak bisa diakses, ternyata ganti link produknya, sudah diinfokan dan diupdate di channel
 
-INFORMASI TRAINING -  TRAINING LEVEL E 1
-Cara Efektif Meningkatkan Penjualan Produk
-diadakan via zoom, tanggal 14 maret kemarin
+CAMPAIGN/PROMO - UPDATE SKEMA PROGRAM EVERMOS X ALADIN
+Transaksi yang dihitung untuk program ajak teman aladin adalah:
+Pembelian token listri, pembayaran tagihan listrik, paket data, transaksi yang menggunakan qris dan  produk kategory donasi (Infaq, zakat, wakaf)
+Update terkait dengan Qeris yang dihitung diprogram aladin, yang dihitung hanya yang qris merchant, pembayaran di MP misalnya, untuk qrist transfer bank nggak dihitung
 
-SOP - KETENTUAN GARANSI KHUSUS PRODUK AL QUR'AN
-Ini info lama, tapi tak cek nggak nemu infonya di mom maupun di channel, jadi di share lagi.
-reseller bisa klaim garansi untuk produk alquran yang tidak sesuai (misal halaman tertukar, rusak, dll) tanpa batasan waktu selama produk belum digunakan
-
-ISSUE - KENDALA PELACAKAN RESI ID EXPRESS
-Tanggal 14 mar waktu temen2 lacak resi di website ekspedisi nggak muncul history pengirimannya, tapi di berdu dan cek resi muncul, jadi patokan dari berdu dan cek resi
-
-CAMPAIGN/PROMO - JIMS HONEY CIANJUR BAGI-BAGI HADIAH
-CAMPAIGN/PROMO - DISKON 10% DARI ARRA
-Periode 6-19 maret
+SOP - PESANAN DENGAN VOUCHER INBAR YANG DIREFUND
+Pesanan dengan voucher (inbar70mar, inbarmar, intimmar) terus batalnya karena kesalahan brand atau internal, bisa diganti vouchernya, dari tim 2nd layer, baik op atau rc nanti bisa langsung buatin voucher penggantinya pas handle kendalanya pesanannya. terus kalau dari CS nanti bisa dieskal aja ke 2nd layer kalau misal sudah over SLa voucher pengganti belum diterima reseller.

@@ -1,26 +1,44 @@
-RANGKUMAN KALIBRASI SERVICE 95
-Selasa, 21 Februari 2023
+RANGKUMAN KALIBRASI SERVICE 99
+Selasa, 21 Maret 2023
 Jam: 14.00-14.30
 
-1. UPDATE KONTAK ALADIN
-Jika nasabah Aladin menghubungi menggunakan no HP yang berbeda dengan yang di Evermos, dan nasabah menginfokan kalau no hp di akun Aladinnya hilang. Nasabah bisa diarahkan untuk update kontak di akun Aladinnya. Jadi tetap dipastikan reseller menghubungi menggunakan nomer HP yang sama antara akun Evermos dan akun Aladinnya.
+1. PATOKAN PERHITUNGAN SLA UNTUK PESANAN YANG RESINYA SUDAH BISA DILACAK
+Untuk pesanan yang resinya sudah bisa dilacak, penentuan perhitungan SLAnya ditentukan dari tanggal resi sukses di pickup.
+Contoh:
+- Gambar1, pesanan di mimin tanggal resi diinput 13 Maret 2023
+- Gambar2, status pelacakan diwebsite ekspedisi, resi berhasil di pickup tanggal 16 Maret 2023
+Maka untuk penentuan perhitungan SLA dimulai dari tanggal 16 Maret 2023, ketika resi berhasil di pickup.
+Info terkait: https://t.me/c/1469407673/2121 [poin 3]
 
-2. UPDATE KELENGKAPAN DATA SOP WEBSITE/SYSTEM ENGINEERING ISSUE
-Jika reseller terkendala case Website/System Engineering Issue, reseller dimintakan data Provider/operator yang dipakai reseller. Tapi jika reseller menginfokan menggunakan wifi, reseller bisa menyebutkan layanan penyedia jaringannya, misal Indihome atau Biznet. Jika sudah lengkap datanya, kendalanya bisa langsung dieskalasikan ke RC.
-Note:
-Kelengkapan data eskalasi di CS guide bagian: Provider/operator yang dipakai reseller, sudah diupdate menjadi Layanan jaringan yang digunakan reseller (provider/Wifi).
+2. HANDLING KENDALA RESELLER YANG KOMPLAIN KARENA TOKO BERIKHTIARNYA TIDAK BISA DIAKSES
+Jika ada reseller yang komplain karena link toko berikhtiarnya tidak bisa diakses, bisa dihandle dengan SOP berikut: https://t.me/c/1469407673/3715
 
-3. KETENTUAN ESKALASI CASE REQ ADDITIONAL INFO PRODUCT CUSTOM
-Kendala reseller tetap bisa dieskal ke OP meski status pesanan sudah diproses. Batas eskalasi untuk case ini adalah sampai pesanan belum ada nomer resinya.
-Jika pesanan sudah ada nomer resinya, artinya pesanan sudah dikirim dan kendala tidak bisa dieskalasi. Reseller bisa diedukasi saja untuk orderan berikutnya bisa dicek lagi detail orderan produk customnya, jika ada ketidaksesuaian bisa langsung lapor ke Eva sebelum pesanan dikirim.
+3. PENENTUAN CASE YANG DATANYA HARUS LENGKAP SEBELUM DIESKALASI
+Saat eskalasi ke RC ada beberapa case yang kelengkapan datanya tidak harus lengkap (data bisa menyusul setelah reseller menginfokannya) karena ada pertimbangan khusus, misal karena reseller tidak sering online dan adanya batasan waktu retur 2 hari kalender.
 
-4. KETENTUAN PENGGANTIAN VOUCHER UNTUK PROMO DARI AE [OP]
-Beberapa promo ada yang mencantumkan ketentuan promonya hanya berlaku untuk pemesanan dari WH tertentu, tapi ada juga yang tidak.
-Jika ada beberapa reseller pesan produk dengan voucher karena ingin ikut promonya, tapi waktu pesan tidak CO dari WH yang sedang promo karena produk dari WH yang promo habis.
-**Pertanyaan:
-- Apakah untuk vouchernya bisa diganti?
-Jika detail promonya tidak mencantumkan tnc promo dengan jelas (di promo tidak ada keterangan promo hanya berlaku untuk WH xxxxx) vouchernya bisa diganti.
-- Untuk pengecekan tnc promonya gimana? On confirm (sementara dari OP bisa nanya ke KMC).
+Berikut pembagian case eskalasi yang datanya harus lengkap dan yang tidak harus lengkap:
+*****PACKAGE DELIVERED BUT STATUS NOT YET UPDATED IN ADMIN PANEL*****
+Data yang tidak harus ada(bisa menyusul) waktu eskalasi:
+- Layanan jaringan yang digunakan reseller (provider/Wifi) : ...
+- Type HP: ...
+- Merk HP: ...
+- Versi Android/iOS: ...
+Kelengkapan data foto label dipaket, dibagi menjadi 2 kondisi:
+1. Status pesanan di website ekspedisi sudah "Delivered"
+Jika reseller nggak bisa memberikan kelengkapan data foto label paket yang diterima, kendala bisa langsung dieskal, asal reseller sudah memberikan foto produk yang diterima (foto produk yang diterima wajib ada).
+2. Status pesanan di website ekspedisi belum "Delivered"
+Jika reseller tidak bisa memberikan kelengkapan data foto label paket yang diterima, mintakan SS chat dari konsumennya yang menyatakan kalau pesanan sudah diterima.
+##Konfirm ke mbak siw:--------------------------------
+- Kalau yang pesan reseller sendiri dan status pesanan di ekspedisi belum delivered gimana? cukup ngasih data foto produk yang diterima? kalau nggak ada foto produk nggak bisa klaim garansi?
+- Foto produk yang diterima tetap wajib kan? kalau nggak ada, nggak bisa dibantu proses klaim
 
-5. SOP PENENTUAN KELENGKAPAN DATA UNTUK REWARD DARI PROGRAM DI SOSMED
-Untuk tim sosmed jika ada reseller yang menghubungi dan menginfokan kalau sudah menang program dari sosmed Evermos, kendalanya bisa dihandle dengan SOP berikut: https://t.me/c/1469407673/3569
+*****PRODUCT - LOGISTIC ISSUE*****
+Untuk case pada root cause product - logistic issue, agen 1st layer bisa langsung eskalasi meski datanya belum lengkap. Karena ada urgensi reseller tidak sering online dan adanya batas klaim garansi 2 hari kalender.
+
+NOTES:
+Untuk case selain:
+- Package delivered but status not yet updated in admin panel
+- Product - Logistic Issue
+Sebelum agen 1st layer eskalasike RC, semua data wajib lengkap
+##Konfirm ke mbak Siw & mbak Dyah:--------------------------------
+- Untuk ketentuan diatas bisa ditambahin di guide nggak? yang poin nggak wajib itu ditambahin keterangan nggak wajib/optional
