@@ -1,11 +1,37 @@
-KALIBRASI SERVICE
+KALIBRASI EVERMOS 
+Senin, 4 MARET 2024
 
-1. SOP untuk pengecekan eskalasian dari agen CS yang perlu data tambahan tapi datanya kurang dan agen CSnya sudah pulang.. Dibuatin group telegram untuk pengecekannya.
-
-2. Konfirm ke mbak Siw dan mas Tyo kalau dari hasil pengecekan di group telegram beberapa case perlu di alignment.
-- Izin buat cek secara berkala eskalasian dari agen CS ke RC dengan keterangan tidak input SW, kalau ada SOP atau tnc yang perlu di update, konfirm ke RC
-- Minta tolong reminder jika ada keluhan dari RC terkait dengan esklasian agen CS yang kurang lengkap dan dilakukan secara repeat atau massive ke KMC agar dilaukan pengecekan. jika perlu update SOP akan diupdate SOPnya.
+1. Reminder:
 
 
-ke BRC kalau misal nggak perlu ditanyain gimana? soalnya waktu penyampaian ke reseller juga diarahin buat ngecek secara berkala, terus nggak dikasih SLA juga, buat ngurasi effort dari CS dan BRC juga.
-nanti kalau tanggal info dari BRC ternyata toko belum buka gimana?
+2. Siwi
+untracked terus reseller mau cancel, tp pakai case req cancel order,
+6448-1707256624
+Long picking atau untracked eskalnya pakai case yang sama, terus dikasih
+- Kode unik auto masuk ke deposit,
+eskalasinya ke tim OP ---- konfirm ke tujan
+
+3. Almira
+- Reminder, info produk inputan menanytakan waktu PO tapi tidak ada waktu POnya
+Kalau misal labelnya itu PO, tp nggak ada keterangan waktu POnya, bisa diinfoin 7HK.
+- Nanya produk A, link produk B,
+Link produknya kalau misal nggak ketemu, pakai link brand.
+- restock varian misal, juga disebutin varian atau detail yang direstock
+
+Jojo
+Make sure:
+metabase digipro
+SS digipro: bisa dikasih estimasi poin yang didapat reseller atau nggak 
+https://metabase.evermos.com/question/20623-ss-reseller-achievement-for-digipro-loyalty-point
+
+
+Oscar
+- Invitasi gmeet bisa diupdate
+- Tagging di evermos, kalau dicek dailynya, ngggak ada taggingnya 30% keatas dari total inbound yang masuk ke agent.
+
+Betty
+Terkait KRS
+jago jualan: kalau misal reseller nggak nanya WAG, ini dkasih everpro academy aja, nggak perlu dikasih WAG
+Sementara nggak perlu dikasih Link WAg
+
+

@@ -1,0 +1,33 @@
+Cancel order pesanan digipro minggu depan harusnya bisa ke full op, karena op udah ada full akses kyk RC
+Konfirm ke mbak Nurul dan tujan
+
+//////////////////////////////////////////////////////
+Beberapa pertanyaan:
+** kalau status pesanan Belum Bayar gimana? Tp user udah melakukan pembayaran, ke OP atau RC
+** FLow pengecekan pesanan double order atau nggak gimana? - mintain ss detail order di app reseller, cek no hp yang melakukan pemesanan via metabse. kalau no hp sama berarti jelas double order
+** kalau status pesanan expired gimana?
+** metode pembayaran pengaruh nggak untuk yang expired
+
+Info yang relate: 
+UPDATE SOP - PERUBAHAN KETENTUAN ESKALASI PESANAN DIGIPRO
+https://t.me/c/1469407673/2850
+SOP – REQUEST CANCEL ORDER KRS [kalibrasi]
+https://t.me/c/1302774896/586
+UPDATE SOP - HANDLE PESANAN DIGIPRO YANG TERKENDALA
+https://t.me/c/1469407673/3697
+////////////////////////////////////////////
+SOP https://t.me/c/1469407673/4483 req cancel order produk beras perlu diinput di CS guide === ke mas Oscar
+Berarti ini masuk cause mana?
+///////////////////
+Team,  karena saat ini pesanan KRS digipro dengan kendala reseller order lebih dari 1 itu bisa dibatalkan [klik disini (https://evermos.slack.com/archives/C042NMDCUM6/p1698992029011579)], asal belum lebih dari 1hari kalender dari tanggal pembayaran. Misal dibuat ketentuan ini gimana?
+
+1. Info https://t.me/c/1302774896/586 diupdate, KRS digipro bisa dibatalkan dengan spesifik kendala reseller order lebih dari 1, kelebihan ordernya bisa dibatalkan, asal komplainnya tidak lebih dari 1 hari kalender dari tanggal pembayaran.
+
+2. Dibuat SOP dengan flow:
+> CS chat ke Eva dan menjelaskan detail kendalanya
+> Eva minta kelengkapan data:
+- Kode order
+- Bukti pembayaran
+- SS detail order di app reseller
+**Lampiran Bukti pembayaran dan SS detail order di app bisa diberikan salah satu
+> Jika data sudah lengkap bisa dieskalasi ke OP dengan case Request cancel order, SLA 1HK

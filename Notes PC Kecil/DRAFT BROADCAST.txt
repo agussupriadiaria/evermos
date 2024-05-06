@@ -1,0 +1,39 @@
+//////////////////////////////////////////////////////////
+Data utama dan data pelengkap waktu eskalasi case Update Status POD
+Info yang sudah tidak berlaku:
+- https://t.me/c/1339683863/490
+- https://t.me/c/1339683863/747
+- https://t.me/c/1339683863/612
+- https://t.me/c/1339683863/612
+
+UPDATE SOP - FLOW DAN KELENGKAPAN DATA UNTUK ESKALASI UPDATE STATUS POD
+
+Dear team,
+Ada update untuk flow dan kelengkapan data SOP Update Status POD.
+Flow terbaru:
+1. Cek pada Popaket cek status terakhir pengiriman. Double cek pada web jasa kirim dan cek status terakhir pengiriman pesanannya. 
+2a. Jika status pada web jasa kirim dan popaket belum terkirim namun user infokan paket sudah diterima, minta bukti berupa foto paket yang sudah diterima oleh pembeli yang menunjukan paket sudah diterima/label pada paket yang diterima user dan screenshot percakapan antara user dengan buyer
+2b. Jika status 3PL sudah diterima namun di Popaket belum completed, screenshot perbedaan status pada web 3PL dengan popaket.
+3. Apabilla user menghubungi bukan melalui WA (menghubungi via LC), konfirmasi nomor WA aktif yang dapat dihubungi
+4. Eskalasikan kendala tersebut ke 2nd Layer
+5. Data Utama yang dimintakan ke user:
+- Bukti chat menyatakan paket diterima buyer (terlihat nomor resi dan nomor buyer). 
+- Apabila kontak disimpan, maka lampirkan screenshot profil Whatsapp buyer
+6. Jika user tidak bisa memberikan kelengkapan Data Utama, maka agen memintakan Data Alternatif:
+- Foto produk/foto paket yg keliatan AWB (berlaku untuk all 3PL)
+**Jika agen eskalasi menggunakan Data Alternatif, waktu eskalasi jelaskan ke L2 user tidak bisa memberikan kelengkapan Data Utama
+7. Apabila data-data yang sudah diminta namun tidak ada, agent bisa tetap bantu eskalasi. Dan jangan lupa berikan note ketika eskalasi.
+8. Informasikan kepada user bahwa kendalanya sudah kita bantu follow up ke tim terkait untuk dilakukan penanganan lebih lanjut, mohon ditunggu updatenya sesuai dengan SLA (berikan tanggal) 
+9.  Format eskalasi bisa ikuti kolom G
+
+Notes:
+- Pastikan agen L1 sudah meminta Data Utama dulu ke user. Jika sudah dimintakan ke user, tapi user tidak bisa memberikan kelengkapan Data Utama itu, agen baru memintakan Data Alternatif ke user.
+- Jika agen L1 akan eskalasi menggunakan Data Alternatif, waktu eskalasi jelaskan ke L2 user tidak bisa memberikan kelengkapan Data Utama.
+
+Infonya sudah diupdate di CS Guide [klik disini]
+
+Terima kasih
+
+Everpro
+#UpdateSOP
+//////////////////////////////////////////////////////////

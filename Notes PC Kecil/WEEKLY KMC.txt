@@ -1,0 +1,109 @@
+EVERMOS ================
+ISSUE - HALAMAN PROGRAM KOMISI LOYALTY MINGGUAN NON DIGITAL DI KATALOG TIDAK SESUAI
+Tanggal 6 November 2023 ada issue dimana halaman PDP di katalog yang seharusnya mengarahkan ke info program loyalty mingguan non digital sedang mengalami gangguan, sehingga jika menunya di klik akan mengarahkan ke halaman info yang tidak sesuai.
+
+Jika ada reseller yang menanyakan kendala ini, bisa diinfokan kendalanya dalam proses penanganan. Reseller bisa langsung diarahkan untuk cek halaman program loyalty mingguan non digital Evermos lewat link berikut https://evermos.com/eldp/10000000121/weekly-loyalty .
+Kendala sudah teratasi di hari yang sama. kendala berlangsung dari jam 09.52-11.04
+
+ISSUE - TANGGAL ORDER PESANAN PRODUK KRS DIGIPRO TIDAK UPDATE
+Tanggal 6 November 2023  ada issue tanggal order produk Kelas Reseller Sukses (KRS) digipro tidak update. Tanggal order menampilkan 01 Januari 0001.
+** Contoh terlampir
+Saat ini kendala masih dalam proses pengecekan. Jika ada reseller yang menanyakan terkait kendala tersebut, bisa diinfokan kendalanya masih dalam proses penanganan. Reseller bisa tetap order seperti biasa dan bisa mengabaikan tanggal yang ditampilkan di detail ordernya terlebih dulu.
+
+ISSUE - DOUBLE ORDER TRANSAKSI PRODUK KRS
+Tanggal 4 November 2023 ada issue double order pesanan produk KRS (Kelas Reseller Sukses). Sehingga ada beberapa pesanan reseller yang dibatalkan.
+Reseller yang terdampak issue ini akan mendapatkan notifimasi refund untuk transaksi KRSnya.
+**Contoh notifikasi terlampir.
+Jika ada reseller yang menanyakan terkait issue ini, bisa disampaikan ada kendala teknis yang menyebabkan pesanan produk KRS reseller terdouble, jadi terpaksa dibatalkan.
+Untuk proses refundnya juga tidak bisa di cairkan, karena akan langsung ditarik lagi oleh tim Evermos. Reseller bisa mengabaikan saja notifikasi refund pesanan produk KRS tersebut.
+List reseller terdampak bisa dicek di gsheet Request Cancel Order
+
+NEWS - KONTAK TIM ONBOARDING
+Berikut list kontak tim onboarding terbaru (update November 2023).
+Jihan : 6287846655483
+Sisma : 6282223622090
+Maitsa : 6285179520244
+Febriansyah : 6289657511590
+Gina : 6288976649622
+Fadil : 6281222241506
+Dhini : 6288976649652
+Gagas : 6287846655485
+Jika ada user yang menanyakan apakah kontak tersebut dari tim Evermos atau bukan, bisa diinfokan dari Evermos, jika berkenan reseller bisa langsung me-response.
+
+NEWS - PEMENANG PROGRAM TOP SPENDER CHALMER
+Berikut list data pemenang program Top Spender Chalmer bisa dicek di gsheet PEMENANG TOP SPENDER CHALMER (https://docs.google.com/spreadsheets/d/1xpzAOEUTGCcJONyVopEmlJ10eb5haNaXPCYz9CD7i2Y/edit#gid=0)
+Para pemenang akan dihubungi oleh tim Evermos dengan kontak 6283863213285
+Detail program:
+Periode promo: 1-15 Oktober
+20 orang reseller dengan transaksi/penjualan tertinggi pada periode 2 minggu akan mendapatkan voucher belanja produk Chalmer
+Voucher belanja 100rb dengan minimal order 150rb bisa dipakai untuk transaksi seluruh produk Chalmer
+TNC: 
+1. Berlaku untuk 20 orang Reseller dengan penjulan tertinggi pada periode promo berjalan
+2. Transaksi yang dihitung hanya transaksi di brand Chalmer
+3. Berlaku untuk semua produk di brand Chalmer
+4. Jika ditemukan tindakan kecurangan voucher tidak akan bisa di klaim
+5. Voucher berlaku untuk potongan belanja
+
+NEWS - PROGRAM POIN GRATIS TANPA SYARAT ULANG TAHUN EVERMOS
+Tanggal 1 November 2023 ada pop up notifikasi di app Evermos untuk semua reseller. Sebanyak 50 reseller berkesempatan untuk mendapatkan 500.000 poin tanpa syarat
+Ketentuan:
+- Program hanya berlaku di tanggal 1 November 2023. Setelah tanggal tersebut reseller tidak bisa mengisi form
+- Poin hanya untuk 50 reseller pertama yang sudah mengisi form
+- Reseller beruntung akan dihubungi tim Evermos
+- 500.000 poin untuk 50 reseller (per reseller mendapatkan 10.000)
+- List pemenang juga akan diinfokan di IG dan FB Evermos
+Notes:
+- Reseller yang sudah mengisi form bisa diarahkan untuk mengecek IG dan FB Evermos untuk mengetahui data pemenangnya.
+- Jika ada reseller yang sudah mengisi form dan datanya ada di list pemenang (IG dan FB Evermos), reseller bisa diarahkan untuk menunggu proses top upnya maksimal tanggal 6 November 2023.
+- Jika data reseller tidak ada di list pemenang IG dan FB Evermos, maka reseller tersebut belum beruntung untuk mendapatkan poin dari program tersebut.
+Eldp program: https://evermos.com/eldp/10000001718/5-tahun-berbagi-bersama
+
+EVERPRO================
+NEWS - UPDATE OUT COVERAGE INDAH LOGISTIK
+Berikut terlampir data kecamatan yang out area (tidak bisa mengirim barang ke kecamatan tersebut).
+Data di Everpro akan segera di update.
+**List kecamatan terlampir
+
+REMINDER SOP UNTUK WHITE LIST USER
+Untuk Kendala Whitelist User dengan detail case: User sudah mengisi typeform feedback WL dan sudah lebih dari 1 HK belum dihubungi tim Everpro, SLA penanganan casenya 3 HK. Info KMC: https://t.me/c/1339683863/74
+Detail kendala, flow case dan kelengkapan data eskalasi sudah diinput di CS guide [klik disini (https://docs.google.com/spreadsheets/d/1ziqw4xnvaOejry6QHnW3V5TCV9SW5E0HbW6z0hf2_7Y/edit#gid=1330265859&range=C17)]
+Update : https://t.me/c/1871942181/4841
+
+KETENTUAN PEMBUATAN AKUN EVERPRO
+User Everpro hanya bisa menggunakan 1 data KTP untuk 1 akun.
+
+REMINDER FILE PENDUKUNG ESKALASI UPDATE STATUS POD
+Untuk case eskalasi Update Status POD all ekspedisi, agen perlu melampirkan data utama berikut waktu eskalasi
+- Bukti chat menyatakan paket diterima buyer terlihat nomor buyer. Apabila kontak disimpan, maka lampirkan screenshot profil Whatsapp buyer.
+- Pada chat harus menyebutkan nomor resi dan ada foto paket yang tertera shipping label. 
+Jika user tidak bisa memberikan data utama tersebut, agen bisa memberikan kelengkapan data sesuai dengan jenis ekspedisinya [SOP di CS guid (https://docs.google.com/spreadsheets/d/1ziqw4xnvaOejry6QHnW3V5TCV9SW5E0HbW6z0hf2_7Y/edit#gid=721863932&range=E28)e]
+Info dichannel:
+- https://t.me/c/1339683863/490
+
+TAGGING KENDALA AFFILIATE
+Untuk eskalasi kendala case kendala Affiliate https://t.me/c/1339683863/769 jika agen ingin dispose chat, saat ini bisa menggunakan tagging User Account Suspended - Bug.
+Ketentuan ini berlaku untuk penggunaan tagging di Kapture
+
+REMINDER KENDALA FRAUD DAN PENCAIRAN SUSPEND CV COIN
+Jika user menghubungi dan menginfokan akunnya tersuspend, kemudian setelah dicek ternyata issuenya terkait dengan kendala fraud dan CV Coin, maka agen bisa handle kendalanya jika user sudah menghubungi dengan nomor yang terdaftar (nomor yang kena suspend/nomor sesuai akun). Jika belum, arahkan untuk menghubungi dengan nomor yang terdaftar (nomor yang kena suspend/nomor sesuai akun). Jika menghubungi melalui LC bisa langsung ditangani.
+Info terkait:
+https://t.me/c/1339683863/736
+https://t.me/c/1339683863/762
+
+REMINDER CARA MEMBALAS PERTANYAAN USER TERKAIT PEMBERIAN LINK INFO
+Pemberian link hanya sebagai pelengkap jawaban, jadi jika agen ingin memberikan link ke user, bisa diberikan bridging jawaban awal/utama dulu, agar reseller bisa mendapatkan info yang lebih jelas dan lebih mudah.
+Contoh case:
+>> User menanyakan, berapa ongkir retur di Everpro?
+Jawaban kurang tepat: Ongkir retur bisa dicek di link berikut https://everpro.id/promo/
+Jawaban yang tepat: Untuk ongkir retur Everpro bisa dicek di halaman berikut https://everpro.id/promo/ di bagian tabelnya. Kakak bisa berpatokan pada pada kolom Biaya Retur untuk pengecekan nominal returnya.
+**Jika user sudah sudah diberikan link dan mengalami kendala dalam pengecekannya (tidak bisa mengecek), bisa langsung diberikan SS detail ongkir atau info lain yang diperlukan, tanpa perlu menekankan lagi ke user untuk tetap cek link yang sudah diberikan sebelumnya.
+>> User menanyakan apakah ada video tutorial untuk layanan (misal layanan CRM) di Everpro?
+Jawaban kurang tepat: Untuk videonya silakan dicek di link berikut https://www.youtube.com/@komunitasbelajareverpro/videos (link kurang spesifik)
+Jawaban yang tepat: Untuk videonya silakan dicek di link berikut https://www.youtube.com/watch?v=2gnT5CcA7ek&list=PL-opXrBE6aTKbXS-sdrPlMgWkU17rdEi8&ab_channel=KomunitasBelajarEverpro (link lebih spesifik ke materi CRM)
+
+REMINDER CASE CRISS-CROSS
+Untuk hasil pelacakan ekspedisi IDX dengan keterangan "Problem on shipment scan due to Paket salah dalam proses penyortiran" termasuk kendala Criss-Cross. Info KMC: https://t.me/c/1339683863/644
+SOP sudah diupdate di CS guide [Klik disini (https://docs.google.com/spreadsheets/d/1ziqw4xnvaOejry6QHnW3V5TCV9SW5E0HbW6z0hf2_7Y/edit#gid=721863932&range=C3)]
+
+REMINDER KOORDINASI DENGAN TL
+Jika agen merasa ada concern terkait dengan penilaian QA, SOP yang ada, atau agen menemukan case apapun yang dirasa mengganjal, agen bisa koordinasi dengan TL.

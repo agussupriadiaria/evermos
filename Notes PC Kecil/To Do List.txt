@@ -1,0 +1,12 @@
+- membuat material kaca jendela mobol dan lampu depan, pakai parameter ior nggak? ior itu apa?
+- fokus ke detail bagian depan dan belakang
+- buat manual decal, dengan gambar png bening, normal map metode
+- mesin untuk berjualan agar anak2 seneng lihatnya.
+- make 3d head gundam
+- buat roda gtr r35
+- Kenapa rigify pose mode dan edit mode posisi dan lokasi rig berbeda?
+
+
+Catatan rigify:
+- Setiap bone punya bone type dan itu harus ada
+- Bone type hanya ada dibagian pangkal aja, bone lainnya yang mengikut nggak harus ada bone type

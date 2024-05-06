@@ -1,0 +1,24 @@
+Case double transfer ------case terpisah
+1. Pesanan dgt_2998-1699054317
+Reseller transfer 2 kali dan status pesanan sudah selesai atau Complete atau belum complete
+pembayaran pakai bank transfer
+2. Pesanan dgt_7025-1698763315
+Double transfer pakai bank transfer
+SOP ini perlu diupdate https://docs.google.com/spreadsheets/d/1yJanHBypcEm-SE0kJ3rZsRGLvwhh8MLxsHQk8enRxPU/edit#gid=0&range=C61
+///////////////////
+Konfirm ke mbak Siw:
+1. SOP ini perlu diupdate:
+https://docs.google.com/spreadsheets/d/1yJanHBypcEm-SE0kJ3rZsRGLvwhh8MLxsHQk8enRxPU/edit#gid=0&range=C61
+Apakah harus pesanan non digipro baru bisa dihandle sama RC
+Pesanan BT dan non digipro https://t.me/c/1603113346/194396 bisa dihandle
+Pesanan BT dan digipro https://t.me/c/1603113346/194326 tidak bisa dihandle
+Pesanan BT dan digipro https://t.me/c/1603113346/193494 bisa dihandle
+Pesanan BT dan digipro https://t.me/c/1603113346/193736 bisa dihandle
+Double transfer dari RC hanya bisa dihandle untuk pesanan yang non digipro.
+Konfirmasi ke tujan, OP bisa handle nggak?
+2. Pending payment digipro perlu ditambahin diguide.
+Poin perbedaannya: Nggak perlu nunggu 3 jam karena expirednya nunggu 1x24 jam kalender?
+///////////////////////////////////////
+
+Ini case closed karena paketnya udah berhasil diproses retur mas, jadi gabisa dikirim ulang. Ini paket J&T drop jadi bisa diedukasi paket tidak bisa dikirim ulang dan sarankan ambil paket ke drop poin awal
+

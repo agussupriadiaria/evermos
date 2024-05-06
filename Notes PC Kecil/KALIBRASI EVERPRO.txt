@@ -1,0 +1,53 @@
+KALIBRASI EVERPRO
+Rabu, 1 November 2023
+
+- Rihga
+Temen2 agen nanyain
+apakah mungkin bisa ada update di channel KMC, di gheet juga di update.
+dari kmc flownya akan langsung update ketentuan jika mengubah ketentuan sebelumnya.
+arda, saranin itu
+Kalau kendala restrik aku
+Tambahin di guide untuk ketentuan kendala whitelist user dibagian https://t.me/c/1339683863/74..
+***Update CS guide================
+>> Verifikasi perlu satu akun 1 ktp. kalau user mau bikin akun lagi bisa pakai KTP lainnya
+wording ke user:
+Kalau udah daftar dan udah verfiikasi, kalau mau daftar lain harus pakai KTP lainnya juga.
+
+- Shinta:
+> SS chat untuk update POD
+Reminder ketentuan terbaru file pendukung untuk case Update Status POD dari ekspedisi sicepat:
+- Bukti chat menyatakan paket diterima buyer terlihat nomor buyer. Apabila kontak disimpan, maka lampirkan screenshot profil Whatsapp buyer.
+- Pada chat harus menyebutkan nomor resi dan ada foto paket yang tertera shipping label. 
+Info dichannel: https://t.me/c/1339683863/747
+> kendala affiliate, kalau belum masuk taggingnya bisa pakai taggingnya yang kemarin aja.
+taggingnya buat dipose chat pakai User Account Suspended - Bug 
+
+- Vey:
+Reminder
+handle kendala ESKALASI KENDALA FRAUD DAN PENCAIRAN SUSPENDED CV COIN
+pencairan dana akun yang tersuspend hanya bisa dilayani jika user chat pakai no hp yang sama yang tersuspend itu
+contoh case: 
+https://evermos.kapturecrm.com/nui/tickets/unassigned/1/-1/0/detail/454502767/6698561385305?query=6698561385305
+agen masih ngnfoin saldo dan ketentuan lainnya.
+https://t.me/c/1339683863/736
+https://t.me/c/1339683863/762
+
+Cara agen membalas pertanyaan user:
+https://evermos.kapturecrm.com/nui/tickets/all_pending/2/-1/0/detail/455322535/6698712973190?query=6698712973190
+berapa biaya retur di everpro: agen nginfoin eldp promo, agen nggak nginfoin detail halamannya, malah diarahin buat cek lagi dari halaman eldp.
+
+Reminder:
+memerintah user untuk cek tutorial everpro dari link tertentu, padahal di link itu ada banyak kontent video.
+https://evermos.kapturecrm.com/nui/tickets/all_pending/2/-1/0/detail/455678225/6698755341754?query=6289516009326
+bisa dijelasin link video yang lebih spesifik.
+Tambahan kelas pengenalan link yotuube ke reseller.
+Harus bridge, dikasih preview infonya dulu, habis itu untuk detailnya bisa dicek di link yang diperlukan, kyk info pelengkap aja.
+jangan dijadikan jawaban utama.
+
+Mas Os:
+>> Titipan dari uswa.
+untuk case gagal kirim dengan tracking " Problem on shipment scan due to Paket salah dalam proses penyortiran" kan harusnya sekarang bisa di eskalasi menggunakan "cris cross" ya? sesuai dgn update di sini https://t.me/c/1339683863/644
+tapi di guide masih ada di table "gagal kirim"
+***Update CS guide================
+
+>> Kalau misal agen ada kendala dalam penilaian atau case apapun itu, agen bisa konfirmasi ke TL dulu, kalau belum clear bisa langsung eskal ke tim terkait misal ke QA

@@ -1,0 +1,30 @@
+KALIBRASI EVERPRO
+Rabu, 3 Januari 2023
+
+KMC:
+Jadi case ini mas, https://t.me/c/1614509992/5494 usernya itu top up saldo iklan dan minta faktur pajak, terus aku FU ke mba april, katanya bisa kita isi gsheet berikut:
+https://docs.google.com/spreadsheets/d/1aUsDeTsK_yFc_b5ORQCI360YL1SeeFNNpknvl9kgN_k/edit#gid=254398657
+
+Terus setelah isi gsheetnya, ditunggu SLA 3 HK buat dapet faktur pajaknya. faktur pajaknya nanti dari mba april / tim yang kirim PM ke kita kalo udah jadi.
+
+mas, ini kita bisa isi sampe kolom S jadi mintakan foto NPWP ke usernya.
+terus kalo 3HK belum ada faktur pajak bisa FU ke anjani.puji@evermos.com
+
+ketentuan top up saldo ads dan ppn nya.
+search ppn
+
+Flow:
+- User chat ke CS
+- User agen memintakan data
+- agen eskalasi ke group Q&A 1st Layer Everpro
+Format eskalasi:
+(Channel) - (No HP/No Akun Di Qiscus) - ("Pemenang Giveaway")
+Nama user
+Alamat
+No HP
+Email
+NIK
+NPWP
+Lampiran:
+Foto NPWP
+** Nominal top up dan ppn? (bisa dicek didetail kredit)

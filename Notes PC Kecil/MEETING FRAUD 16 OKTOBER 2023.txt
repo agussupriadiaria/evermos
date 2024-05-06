@@ -1,0 +1,29 @@
+MEETING FRAUD 16 OKTOBER 2023
+EVERMOS X FRAUD
+
+Penipuan di group telegram
+
+Dari L1 bisa langsung arahin user untuk pengisiannya atau agen L1 yang ngisi?
+Terus nanti perlu eskal ke L2 atau nggak?
+Dari L1 esakal ke L2 dan yang ngisi form L2
+
+Kalau misal nggak perlu eskal, nanti handle gsheetnya gimana? dicek secara berkala aja?
+
+ini cakupannya di group aja
+diluar group itu juga bisa 
+
+nanti eskalnya pakai case apa? Fraud Issue (Penipuan)
+di kapture sudah dibuatin 
+
+eldp terkait penipuan masih berlaku
+
+dari L2 itu nggak perlu fures lagi berarti ya?
+nggak perlu SLA
+
+kalau datanya kurang lengkap tetap bisa dieskal, kalau nggak lengkap, bisa di strip dulu. kalau misal reseller tidak ada atau lupa, bisa di strip, datanya ini suda dimintakan tpi belum ada response. eskalnya nunggu chaat di resolved.
+
+PR wording ke usernya untuk case yang sudah dieskal=== ke mas oscar
+
+Flow di slack: https://evermos.slack.com/archives/C05SXHZF8EP/p1697445149309729?thread_ts=1697067201.190549&cid=C05SXHZF8EP
+form input: https://docs.google.com/forms/d/e/1FAIpQLSevTOcZ69xRoNiYy4HMokEIv6FlN8BmRwHDMf4pkr0jnInXYQ/viewform
+form response: https://docs.google.com/spreadsheets/d/1fCDjobSOO7jboAFpVsX0Vf5r_lAZsDK0yigF29RaxbI/edit?resourcekey#gid=169047478

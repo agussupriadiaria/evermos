@@ -1,0 +1,43 @@
+DRAFT KUIS CS
+
+10. Sebutkan SLA penerimaan cashback dari promo bagi - bagi cashback brand RA Phone Cell periode 1-31 September 2023?
+A. 14 hari kerja setelah periode promo berakhir ===
+B. 14 hari kalender setelah periode promo berakhir
+C. 7 hari kerja setelah periode promo berakhir
+D. 7 hari kalender setelah periode promo berakhir
+https://t.me/c/1733339792/486
+
+11. Berikut ketentuan cancel order untuk produk beras:
+A. Case yang dipakai OOCA
+B. Eskalasi pembatalannya dilakukan ke group Eskalasi OP - EVM ===
+C. Cancel order bisa dilakukan kalau status inventory pesanannya belum diproses
+D. Estimasi penanganan casenya 2 HK
+https://t.me/c/1469407673/4483
+
+12. Berikut ini yang BUKAN ketentuan dari promo Beli 2 Gratis 1 Mukena Travel Tazkiya periode 25 September - 1 Oktober 2023:
+A. Warna free akan dikirim random
+B. Berlaku kelipatan
+C. Pembelian bisa dilakukan untuk warna produk yang berbeda
+D. Hadiah akan dikirim 7 HK setelah periode promo berakhir ===
+https://t.me/c/1733339792/489
+
+13. Pada hasil tracking resi central cargo 00095006383, resi dikatakan bisa dilacak jika sudah ada keterangan apa?
+A. Pickup sudah selesai dilakukan oleh ====
+B. ORD paket sudah diterima oleh kantor xxxxx
+C. Paket dikirim dari xxxxx ke xxxxx
+D. Pickup sedang dilakukan di lokasi oleh
+https://t.me/c/1469407673/4505
+
+14. Reseller minta 7 video dari 7 produk dari dari brand xxxxx. Berikut hal yang bisa dilakukan agen 1st layer:
+A. Reseller bisa diarahkan untuk cek video produknya dari internet atau sumber lain yang dapat dipercaya
+B. Edukasi reseller, saat ini Eva hanya bisa memberikan 1 video produk untuk setiap brand
+C. Video produknya bisa dimintakan ke tim BRC dan eskalasinya per produk ===
+D. Video produknya bisa dimintakan ke tim BRC dan eskalasinya bisa langsung dijadikan 1
+https://t.me/c/1469407673/4506
+
+15. Berikut yang BUKAN kebijakan transaksi dari brand Inthebox (update Oktober 2023):
+A. Reseller bisa mendapatkan potongan harga 5%
+B. Reseller bisa transaksi dengan kode voucher INTHEBOX5
+C. Transaksi tanpa voucher akan masuk capaian program komisi loyalty mingguan
+D. Transaksi dengan vocher juga akan tetap masuk capaian program komisi loyalty mingguan ===
+https://t.me/c/1469407673/4512

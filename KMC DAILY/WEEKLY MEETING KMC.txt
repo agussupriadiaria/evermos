@@ -1,40 +1,32 @@
-//////////////////////////
-UPDATE FITUR - REGISTRASI MELALUI WEBSITE
-kemarin cara registrsai di web dan app beda, sekarang disamain, flownya seperti yang di app, terus halaman di web untuk daftar dan login dulu dipisah sekarang digabung
+WEEKLY KMC
+1. REMINDER - PENGECEKAN DATA RESELLER YANG BISA PAKAI FITUR COD
+Sesuai dengan ketentuan Kelas Reseller, reseller yang bisa mendapatkan fitur COD adalah reseller yang kelasnya Wiraniaga, Juragan, Saudagar dan Sultan. Maka untuk mengecek apakah reseller bisa menggunakan fitur COD atau tidak, bisa dilakukan dengan mengecek status kelas reseller.
+Pengecekan bisa dilakukan dari metabase User Detail Kelas Reseller (New Scheme 2023) (https://metabase.evermos.com/question/12224-user-detail-kelas-reseller-new-scheme-2023?telephone=6281315877977&month_date=2023-06-16).
+Flow pengecekan:
+- Agen input No HP reseller
+- Agen input bulan saat ini (saat reseller chat ke agen)
+- Kelas reseller bisa dicek di kolom "current_month_loyalty_class"
 
-NEW PRODUCT - BERAS SEDAP WANGI
-Ketentuan pemesanan:
-- Pengiriman produk hanya bisa ke wilayah Kabupaten Bandung dan Cimahi (list wilayah pengiriman bisa dicek di detail katalog).
-- Pesanan dikirim menggunakan kurir pribadi
-- SLA pengiriman:
-* Pesanan dilakukan sebelum jam 15.00, SLA pengirimannya 1 hari kerja setelah pemesanan
-* Pesanan dilakukan sesudah jam 15.00, SLA pengirimannya 2 hari kerja setelah pemesanan
-- Produk ini di exclude dari program benefit reseller, seperti poin dan komisi loyalty mingguan
-Untuk tim CS:
-- Jika pesanan dikirim diluar wilayah yang ditentuakan, kemudian pesanan terkendala Long picking atau Untracked, kendalanya dieskal dengan case OOCA.
-- Jika pesanan dikirim sesuai dengan wilayah yang ditentukan, kemudian pesanan terkendala Long picking atau Untracked, kendala dieskal sesuai dengan case Long picking atau Untracked.
-- Update status pesanan jadi selesai, mengikuti ketentuan pesanan yang dikirim pakai kurir pribadi, yaitu 13 hari kalender setelah pemesanan.
-Cut off pesanan geser, SLA pemrosesan awalnya jam 3 jadi jam 1 siang.
+2. SOP - PENGECEKAN JUMLAH PENGGUNA AKUN BANK UNTUK WITHDRAW (WD)
+Sesuai dengan ketentuan WD, 1 akun rekening bank hanya bisa digunakan untuk 3 akun Evermos.
+Maka jika ada reseller yang terkendala gagal WD dan muncul notifikasi "Pengguna Rekening Melebihi Batas. Mohon Ganti Rekening Baru." 
+Bisa dihandle sesuai dengan SOP:
+>> Mintakan data rekening reseller dan cek di metabase Bank Account User Checking
+ (https://metabase.evermos.com/question/15817-bank-account-user-checking)A. Jika data dimetabase menampilkan rekeningnya belum dipakai 3 akun:
+- Arahkan troubleshoot. Jika belum berhasil, kendala bisa dieskal dengan case Withdraw issue - pending withdraw dan jelaskan detail kendalanya ke RC
+B. Jika data di metabase menampilkan rekeningnya sudah dipakai 3 akun:
+- Edukasi reseller ketentuan WD di Evermos, yaitu 1 akun rekening bank hanya bisa dipakai 3 akun Evermos dan arahkan reseller untuk hapus data bank di akun lainnya.
+C. Jika reseller sudah diedukasi (poin B) dan reseller konfirmasi kalau rekening bank tersebut hanya dipakai oleh reseller sendiri:
+Kendala bisa dieskal dengan case Withdraw issue - pending withdraw dan jelaskan detail kendalanya ke RC
+**Kelengkapan datanya juga udah diupdate di channel
 
-SOP - LAYANAN CS EVERMOS 24 JAM
-Dari mbak Jo nginfoin kalau ada tambahan template yang nginfoin layanan CS sudah 24 jam, sudah dishare infonya ke temen2, untuk pembagian template chat yang digunakan setiap shift nantinya akan dishare KMC di group CS meravi sesuai dengan pembagian dari mbak Jo juga
+3. NEWS - PENGHAPUSAN PRODUK TRAINING KELAS RESELLER
+Reseller yang sudah beli produk training yang berbayar dananya akan direfund dalam bentuk voucher, untuk keterangan vouchernya di halaman my voucher reseller adalah Voucher Potongan Belanja untuk Reward Pembelian SKU Training Kelas Juragan Rp25000.
 
-ISSUE - KENDALA AKSES WEBSITE EVERMOS
-tanggal 23 jam 18 kemarin, website nggak bs diakses dan app aksesnya lambat, sudah direport ke tim tech dan tanggal 24 jam 6 an kendalanya sudah teratasi diupdate sama azmi
+4. ISSUE - KETIDAKSESUAIAN REWARD KOMISI MINGGUAN REGULER 12-18  JUNI 2023
+Terkait penarikan komisi mingguan (sebelumnya diinfoin periode 5-11 Juni 2023). Beberapa reseller ada yang komplain karena penarikannya nggak sesuai, setelah dihitung ternyata bener tidak sesuai. Setelah di FU ke Desya ternyata ada kesalahan info, penarikan komisi yang benar di periode 12-18 Juni 2023. Jumlah penarikan kreditnya sudah sesuai hanya penginfoan periodenya saja yang salah. Info sudah diupdate di channel.
 
-INFO - UPDATE PENAMBAHAN LINK CAMPAIGN (72)
-Bisa dipakai sampai tanggal 2 April
-
-NEWS - METABASE PENGECEKAN RIWAYAT KELAS RESELLER
-Update metabase yang digukana untuk pengecekan history kelas reseller, karena kemarin dapat case reseler komplain karena diinfokan status kelasnya dan setelah dikirim ss di appnya nggak sesuai dengan yang dimetabase
-
-NEWS - PRODUK KELAS RESELLER SUKSES
-Produk training kelas resleler sukses linknya kemarin nggak bisa diakses, ternyata ganti link produknya, sudah diinfokan dan diupdate di channel
-
-CAMPAIGN/PROMO - UPDATE SKEMA PROGRAM EVERMOS X ALADIN
-Transaksi yang dihitung untuk program ajak teman aladin adalah:
-Pembelian token listri, pembayaran tagihan listrik, paket data, transaksi yang menggunakan qris dan  produk kategory donasi (Infaq, zakat, wakaf)
-Update terkait dengan Qeris yang dihitung diprogram aladin, yang dihitung hanya yang qris merchant, pembayaran di MP misalnya, untuk qrist transfer bank nggak dihitung
-
-SOP - PESANAN DENGAN VOUCHER INBAR YANG DIREFUND
-Pesanan dengan voucher (inbar70mar, inbarmar, intimmar) terus batalnya karena kesalahan brand atau internal, bisa diganti vouchernya, dari tim 2nd layer, baik op atau rc nanti bisa langsung buatin voucher penggantinya pas handle kendalanya pesanannya. terus kalau dari CS nanti bisa dieskal aja ke 2nd layer kalau misal sudah over SLa voucher pengganti belum diterima reseller.
+5. UPDATE FITUR - PENAMBAHAN SISTEM PEMBAYARAN DURIANPAY UNTUK E-WALLET
+Per tanggal 22 Juni 2023 jam 13.41 metode pembayaran ini dikenakan payment limiter baru, khusus transaksi produk digital.
+>> Seluruh metode bayar e-Wallet, termasuk Gopay, Shopeepay, OVO, DANA, dan LinkAja, tidak bisa digunakan jika reseller melakukan transaksi produk digital: Top Up e-Wallet
+>> Seluruh metode bayar e-Wallet, termasuk Gopay, Shopeepay, OVO, DANA, dan LinkAja, khusus untuk transaksi produk digital selain Top Up e-Wallet, hanya aktif jika total pembayaran kurang dari atau sama dengan Rp 200.000.-

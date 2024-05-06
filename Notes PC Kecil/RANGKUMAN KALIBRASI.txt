@@ -1,0 +1,44 @@
+RANGKUMAN KALIBRASI EVERPRO
+Rabut, 1 November 2023
+
+1. REMINDER SOP UNTUK WHITE LIST USER [input cs guide] ================
+Untuk Kendala Whitelist User dengan detail case: User sudah mengisi typeform feedback WL dan sudah lebih dari 1HK belum dihubungi tim Everpro, SLA penanganan casenya 1 HK. Info KMC: https://t.me/c/1339683863/74
+Detail kendala, flow case dan kelengkapan data eskalasi sudah diinput di CS guide [klik disini]
+https://docs.google.com/spreadsheets/d/1ziqw4xnvaOejry6QHnW3V5TCV9SW5E0HbW6z0hf2_7Y/edit#gid=1330265859&range=C17
+
+2.  KETENTUAN PEMBUATAN AKUN EVERPRO
+User Everpro hanya bisa membuat/menggunakan 1 data KTP untuk 1 akun.
+
+3. REMINDER FILE PENDUKUNG ESKALASI UPDATE STATUS POD SICEPAT
+Untuk case eskalasi Update Status POD dari ekspedisi Sicepat, agen perlu melampirkan data berikut:
+- Bukti chat menyatakan paket diterima buyer terlihat nomor buyer. Apabila kontak disimpan, maka lampirkan screenshot profil Whatsapp buyer.
+- Pada chat harus menyebutkan nomor resi dan ada foto paket yang tertera shipping label. 
+Info dichannel: https://t.me/c/1339683863/747
+
+4. TAGGING KENDALA AFFILIATE
+Untuk eskalasi kendala case kendala Affiliate https://t.me/c/1339683863/769 jika agen ingin dispose chat, saat ini bisa menggunakan tagging User Account Suspended - Bug
+
+5. REMINDER KENDALA FRAUD DAN PENCAIRAN SUSPEND CV COIN
+Jika user menghubungi dan menginfokan akunnya tersuspend, kemudian setelah dicek ternyata issuenya terkait dengan kendala fraud dan CV Coin, maka agen bisa handle kendalanya jika user sudah menghubungi dengan nomor yang terdaftar (nomor yang kena suspend/nomor sesuai akun). Jika belum, arahkan untuk menghubungi dengan nomor yang terdaftar (nomor yang kena suspend/nomor sesuai akun). Jika menghubungi melalui LC bisa langsung ditangani.
+Info terkait:
+https://t.me/c/1339683863/736
+https://t.me/c/1339683863/762
+
+6. REMINDER CARA MEMBALAS PERTANYAAN USER TERKAIT PEMBERIAN LINK INFO
+Pemberian link hanya sebagai pelengkap jawaban, jadi jika agen ingin memberikan link ke user, bisa diberikan bridging jawaban awal/utama dulu, agar reseller bisa mendapatkan info yang lebih jelas dan lebih mudah.
+Contoh case:
+>> Reseller menanyakan, berapa ongkir retur di Everpro?
+Jawaban kurang benar: Ongkir retur bisa dicek di link berikut https://everpro.id/promo/
+Jawaban benar: Untuk ongkir retur Everpro bisa dicek di halaman berikut https://everpro.id/promo/ di bagian tabelnya. Kakak bisa berpatokan pada pada kolom Biaya Retur untuk pengecekan nominal returnya.
+**Jika user sudah sudah diberikan link dan mengalami kendala dalam pengecekannya (tidak bisa mengecek), bisa langsung diberikan SS detail ongkir atau info lain yang diperlukan, tanpa perlu menekankan lagi ke user untuk tetap cek link yang sudah diberikan sebelumnya.
+>> Reseller menanyakan apakah ada video tutorial untuk layanan (misal layanan CRM) di Everpro?
+Jawaban kurang benar: Untuk videonya silakan dicek di link berikut https://www.youtube.com/@komunitasbelajareverpro/videos (link kurang spesifik)
+Jawaban yang benar: Untuk videonya silakan dicek di link berikut https://www.youtube.com/watch?v=2gnT5CcA7ek&list=PL-opXrBE6aTKbXS-sdrPlMgWkU17rdEi8&ab_channel=KomunitasBelajarEverpro (link lebih spesifik ke materi CRM)
+
+7. REMINDER CASE CRISS-CROSS
+Untuk hasil pelacakan ekspedisi IDX dengan keterangan "Problem on shipment scan due to Paket salah dalam proses penyortiran" termasuk kendala Criss-Cross. Info KMC: https://t.me/c/1339683863/644
+SOP sudah diupdate di CS guide [Klik disini]
+https://docs.google.com/spreadsheets/d/1ziqw4xnvaOejry6QHnW3V5TCV9SW5E0HbW6z0hf2_7Y/edit#gid=721863932&range=C3
+
+8. REMINDER KOORDINASI DENGAN TL
+Jika agen merasa ada concern terkait dengan penilaian QA, SOP yang ada, atau agen menemukan case apapun yang dirasa mengganjal, agen bisa koordinasi dengan TL.

@@ -1,0 +1,46 @@
+case nggak bisa import LP json
+https://t.me/c/1614509992/1153?thread=1101
+/////////////////////
+reaktivasi order, harus ada kredit balance tertentu
+https://evermos.slack.com/archives/C043VDNT79C/p1690260665179149?thread_ts=1690258754.131019&cid=C043VDNT79C
+https://t.me/c/1519109789/28587
+https://t.me/c/1519109789/28772
+////////////////////////////
+CATATAN SOP MARKETPLACE NEWS
+pengecualian brand:
+beras
+emas
+inthebox
+Semua kurir pribadi nggak bisa
+pilihan ekspedisi untuk MP
+apakah semua dibikih default sama, atau ada yang beda?
+minta list data brand yang sebelumnya support terus jd nggak support.
+ada nggak. -- mas os.
+//////////////////////////
+Ketentuan pendaftaran akun google ads, pendaftarannya pakai link yang mana?
+- https://evermos.typeform.com/to/dIxy0Ix1?typeform-source=customer.everpro.id
+- https://evermos.typeform.com/to/cMlIsIEQ?typeform-source=everpro.id
+//////////////////////////
+Reseller tidak bisa beli paket dengan cara downgrade jika layanannya masih aktif. Tapi jika layannya sudah tidak aktif, tetap
+//////////////////////////
+Ketetentuan poin ultah. Reseller ada 3 bulan transaksi sebelumnya
+NEWS - PERSYARATAN POIN ULANG TAHUN
+https://t.me/c/1469407673/2931
+//////////////////////////
+Update di CS guide, eskalasi refund tanpa kode order
+////////////////////////////////////
+SOP DOUBLE TRANSFER DIGIPRO
+Keterangan SOP awal:
+- Double Transfer (dari reseller atau Evermos) dan Kurang Transfer/Refund
+- Reseller melakukan double transfer dengan pembayaran bank transfer
+
+Keterangan SOP update: 
+- Double Transfer (dari reseller atau Evermos) dan Kurang Transfer/Refund
+- Reseller melakukan double transfer dengan pembayaran bank transfer (untuk transaksi non digipro)
+
+** Tambahan:
+- Reseller melakukan double transfer dengan pembayaran bank transfer
+Untuk transaksi digipro ke OP pakai case apa?
+Pakai case pending payment.
+Kelengkapan data eskalasinya apa aja?
+////////////////////////////////////
